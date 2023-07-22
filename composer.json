@@ -29,5 +29,6 @@
         "files": [
             "src/Helper/core.helper.php"
         ]
-    }
+    },
+    "minimum-stability": "stable"
 }
