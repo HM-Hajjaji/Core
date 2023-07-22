@@ -1,7 +1,7 @@
 {
     "name": "hm-hajjaji/core",
     "description": "simple framework php",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/HM-Hajjaji/Core",
     "authors": [
