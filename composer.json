@@ -1,0 +1,32 @@
+{
+    "name": "core/core",
+    "description": "simple framework php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hamza Hajjaji",
+            "email": "hhajjaji.fsd@gmail.com",
+            "homepage": "https://github.com/HM-Hajjaji",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "hm-hajjaji/route": "dev-master",
+        "doctrine/orm": "^2.15",
+        "symfony/cache": "^6.3",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "require-dev": {
+        "filp/whoops": "^2.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/"
+        },
+        "files": [
+            "src/Helper/core.helper.php"
+        ]
+    }
+}
