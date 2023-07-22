@@ -3,6 +3,7 @@
     "description": "simple framework php",
     "type": "project",
     "license": "MIT",
+    "homepage": "https://github.com/HM-Hajjaji/Core",
     "authors": [
         {
             "name": "Hamza Hajjaji",
