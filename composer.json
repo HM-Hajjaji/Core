@@ -14,10 +14,10 @@
     ],
     "require": {
         "php": ">=8.1",
-        "hm-hajjaji/route": "dev-master",
         "doctrine/orm": "^2.15",
         "symfony/cache": "^6.3",
-        "vlucas/phpdotenv": "^5.5"
+        "vlucas/phpdotenv": "^5.5",
+        "hm-hajjaji/route": "^v1.1"
     },
     "require-dev": {
         "filp/whoops": "^2.15"
