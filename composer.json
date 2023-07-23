@@ -16,11 +16,11 @@
         "php": ">=8.1",
         "doctrine/orm": "^2.15",
         "symfony/cache": "^6.3",
-        "vlucas/phpdotenv": "^5.5",
-        "hm-hajjaji/route": "^v1.1"
+        "vlucas/phpdotenv": "^5.5"
     },
     "require-dev": {
-        "filp/whoops": "^2.15"
+        "filp/whoops": "^2.15",
+        "hm-hajjaji/route": "^v1.1"
     },
     "autoload": {
         "psr-4": {
